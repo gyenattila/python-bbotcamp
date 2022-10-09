@@ -1,2 +1,2 @@
-# python-bbotcamp
+# python-bootcamp
 Python bootcamp
